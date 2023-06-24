@@ -1,0 +1,35 @@
+/* .mylist {
+    background-color: blueviolet ;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.mylist li {
+    display: inline;
+    margin: 25px;
+}
+
+.mylist {
+    text-align: center;
+    font-size: 35px;
+    background-color: red;
+    color: white;
+    padding: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.mymain{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
